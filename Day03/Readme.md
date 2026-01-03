@@ -1,4 +1,4 @@
-# Day 03 – Secure Shell (SSH)
+# Day 03 – Secure Shell (SSH) 
 
 ## 🔑 What is SSH?
 - **SSH (Secure Shell)** is a protocol that creates a **secure, encrypted tunnel** between two machines.  
