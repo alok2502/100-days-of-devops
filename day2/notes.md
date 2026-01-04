@@ -1,4 +1,4 @@
-# Day 02 – Virtual Machines & Hypervisors
+# Day 02 – Virtual Machines & Hypervisors 
 
 ## Topics Covered
 - Why Virtual Machines are needed
