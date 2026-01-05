@@ -1,4 +1,4 @@
-# Day 03 – Linux Operating System Basics & Shell Scripting
+# Day 03 – Linux Operating System Basics & Shell Scripting 
 
 ## Topics Covered
 - What is an Operating System
