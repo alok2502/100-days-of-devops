@@ -1,4 +1,4 @@
-# Day 16 – Linux Permissions, Process Management & Monitoring
+# Day 16 – Linux Permissions, Process Management & Monitoring 
 
 ## Focus of the Day
 Today’s learning focused on core Linux administration skills that are heavily used in DevOps:
